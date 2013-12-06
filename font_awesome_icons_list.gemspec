@@ -13,7 +13,6 @@ Gem::Specification.new do |s|
   s.email       = 'ankit.gupta8898@gmail.com'
   s.files       = [
                     "lib/font_awesome_icons_list.rb",
-                    "lib/font_awesome_icons_list/mapping.rb",
                     "lib/font_awesome_icons_list/helpers.rb",
                     "lib/font_awesome_icons_list/version.rb"]
   s.require_paths = ["lib"]
